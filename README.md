@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kirtan Patel 👋
 
 ## 🚀 About Me
 I'm a Python developer specializing in data science and web development. I'm passionate about leveraging data to gain insights and building interactive web applications.
