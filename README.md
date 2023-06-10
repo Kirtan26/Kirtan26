@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Kirtan26
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach mez, mmzzmzm ...
+# Hi there, I'm [Your Name] 👋
 
-<!---
-Kirtan26/Kirtan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a Python developer specializing in data science and web development. I'm passionate about leveraging data to gain insights and building interactive web applications.
+
+## 🛠️ Skills
+- Programming languages: Python, JavaScript, HTML/CSS
+- Data manipulation and analysis: Pandas, NumPy, SQL
+- Machine Learning: Scikit-learn, TensorFlow, Keras
+- Visualization: Matplotlib, Seaborn, Plotly
+- Version Control: Git, GitHub
